@@ -3,26 +3,39 @@
 ##### a.k.a Killshot667
 ---
 
-#### A bit about myself  🧑🏻‍💻
+### A bit about myself  🧑🏻‍💻
 
 - 🔭 I'm a sophomore from IIT BHU, India
 - 🥅 My interests include development, trying out new tech in computer science (and really any branch of science for that matter), maths and physics.
 - 🌱 Currently, trying my hands at anything and everything to find what excites me.
--  😄 My hobbies include listening to music, making covers, watching serials and reading fantasy novels.
+-  😄 My hobbies include listening to music, making covers, watching TV shows, and reading fantasy novels.
 - ⚡ Fun fact: I love  waffles :)
 
 
 
-#### 📫Get in touch with me
+### 📫Get in touch with me
+<p>
+<a href="https://www.linkedin.com/in/shabari-s-nair-b94aa119b//"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;<a href="https://github.com/Killshot667"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>&nbsp;&nbsp;<a href="mailto:shabarisnair123@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/>&nbsp;&nbsp;</a><a href="https://www.facebook.com/shabari.snair.3"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+</p>
 
-<a href="https://www.linkedin.com/in/shabari-s-nair-b94aa119b//"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <a href="https://github.com/Killshot667"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>  <a href="mailto:shabarisnair123@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+### Languages and Tech:
+<div>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/raw/master/topics/jupyter-notebook/jupyter-notebook.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/raw/master/topics/numpy/numpy.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://www.pygame.org/docs/pygame_small.gif"></code>&nbsp;&nbsp;
 
-
-
-<br />
-
-### Languages and Tools:
-
+</div>
 
 
 <!--
