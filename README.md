@@ -5,8 +5,8 @@
 
 ### A bit about myself  🧑🏻‍💻
 
-- 🔭 I'm a fin from IIT BHU, India
-- 🥅 My interests include development, trying out new tech in computer science (and really any branch of science for that matter), maths and physics.
+- 🔭 I'm a final year student studying CSE from IIT BHU, India
+- 🥅 My interests include development, competitive programming, AI (basically anything new and exciting in computer science, maths and physics).
 - 🌱 Currently, trying my hands at anything and everything to find what excites me.
 -  😄 My hobbies include listening to music, making song covers, watching TV shows, and reading fantasy novels.
 - ⚡ Fun fact: I love  waffles :)
