@@ -16,34 +16,34 @@
 <a href="https://www.linkedin.com/in/shabari-s-nair-b94aa119b//"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;<a href="https://github.com/Killshot667"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>&nbsp;&nbsp;
 </p>
 
-### Languages and Tech
+### Tech
 <div>
  <!--ML-->
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png"></code>&nbsp;&nbsp; <!--pytorch-->
-
 <!--Systems-->
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://helm.sh/img/helm.svg"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>&nbsp;&nbsp;
-
-
- 
+<!--DBMS-->
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://yt3.googleusercontent.com/ytc/AIdro_ll2Jdn8mnYyUegcqzDlZritUlF2kFxzv5WRB36xx8q=s900-c-k-c0x00ffffff-no-rj"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://yt3.googleusercontent.com/ytc/AIdro_ll2Jdn8mnYyUegcqzDlZritUlF2kFxzv5WRB36xx8q=s900-c-k-c0x00ffffff-no-rj"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://yt3.googleusercontent.com/ytc/AIdro_ll2Jdn8mnYyUegcqzDlZritUlF2kFxzv5WRB36xx8q=s900-c-k-c0x00ffffff-no-rj"></code>&nbsp;&nbsp;
+<!--Front End-->
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>&nbsp;&nbsp;
- 
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://github.com/github/explore/raw/master/topics/jupyter-notebook/jupyter-notebook.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://www.pygame.org/docs/pygame_small.gif"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/react/react.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUyPLMCrdBvL7byu5KkMnOssbQigrkiRxZw&s"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>&nbsp;&nbsp;
+<!--Back End-->
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/django/django.png"></code>&nbsp;&nbsp;
+<!--Misc-->
+<code><img height="50" src="https://miro.medium.com/v2/resize:fit:640/0*nr8xfIriulC1eIkW.png"></code>&nbsp;&nbsp;
+
+
+
 
 </div>
 <br>
@@ -55,24 +55,5 @@
 <br>
 <br>
 
-<div>
-<em><b>"May the force be with you"</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obi-Wan Kenobi</em>
-</div>
-
 
 [![@dvsewen's Holopin board](https://holopin.me/dvsewen)](https://holopin.io/@dvsewen)
-
-<!--
-**Killshot667/Killshot667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
