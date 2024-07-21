@@ -18,8 +18,21 @@
 
 ### Languages and Tech
 <div>
-<code><img height="50" src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
+ <!--ML-->
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png"></code>&nbsp;&nbsp; <!--pytorch-->
+
+<!--Systems-->
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://helm.sh/img/helm.svg"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>&nbsp;&nbsp;
+
+
+ 
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>&nbsp;&nbsp;
+ 
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>&nbsp;&nbsp;
