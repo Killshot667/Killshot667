@@ -28,8 +28,7 @@
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://yt3.googleusercontent.com/ytc/AIdro_ll2Jdn8mnYyUegcqzDlZritUlF2kFxzv5WRB36xx8q=s900-c-k-c0x00ffffff-no-rj"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://yt3.googleusercontent.com/ytc/AIdro_ll2Jdn8mnYyUegcqzDlZritUlF2kFxzv5WRB36xx8q=s900-c-k-c0x00ffffff-no-rj"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://yt3.googleusercontent.com/ytc/AIdro_ll2Jdn8mnYyUegcqzDlZritUlF2kFxzv5WRB36xx8q=s900-c-k-c0x00ffffff-no-rj"></code>&nbsp;&nbsp;
+
 <!--Front End-->
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>&nbsp;&nbsp;
@@ -41,19 +40,6 @@
 <code><img height="50" src="https://github.com/github/explore/blob/main/topics/django/django.png"></code>&nbsp;&nbsp;
 <!--Misc-->
 <code><img height="50" src="https://miro.medium.com/v2/resize:fit:640/0*nr8xfIriulC1eIkW.png"></code>&nbsp;&nbsp;
-
-
-
-
-</div>
-<br>
-<br>
-
-<div align='center'>
- <img align='center' src="https://github-readme-stats.vercel.app/api?username=Killshot667&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=000080" alt="Shabari's Github Stats">
-</div>
-<br>
-<br>
 
 
 [![@dvsewen's Holopin board](https://holopin.me/dvsewen)](https://holopin.io/@dvsewen)
