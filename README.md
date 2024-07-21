@@ -1,26 +1,24 @@
 
-## Hello all, I'm Shabari👋
-#### a.k.a Killshot667
+## Hello all, I'm Shabari S Nair👋
 ---
 
 ### A bit about myself  🧑🏻‍💻
 
-- 🔭 I'm a final year student studying CSE from IIT BHU, India
-- 🥅 My interests include development, competitive programming, AI (basically anything new and exciting in computer science, maths and physics).
-- 🌱 Currently, trying my hands at anything and everything to find what excites me.
--  😄 My hobbies include listening to music, making song covers, watching TV shows, and reading fantasy novels.
-- ⚡ Fun fact: I love  waffles :)
+- 🔭 I recently graduated with a BTech in Computer Science and Engineering from Indian Institute of Technology BHU, India, and am currently working as a Machine Learning Engineer at Sprinklr
+- 🥅 My interests include theoretical and applied AI, ML Operations, micro-service architectures, algorithms, and web development.
+- 🌱 I also find joy in doing puzzles and picking my brain with fun probability questions.
+-  😄 In my free time you can find me at my keyboard (the instrument) or glued to fantasy novels and shows.
 
 
 
 ### 📫Get in touch with me
 <p>
-<a href="https://www.linkedin.com/in/shabari-s-nair-b94aa119b//"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;<a href="https://github.com/Killshot667"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>&nbsp;&nbsp;<a href="https://www.facebook.com/shabari.snair.3"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href="https://www.linkedin.com/in/shabari-s-nair-b94aa119b//"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;<a href="https://github.com/Killshot667"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>&nbsp;&nbsp;
 </p>
 
 ### Languages and Tech
 <div>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>&nbsp;&nbsp;
