@@ -4,8 +4,8 @@
 
 ### A bit about myself  🧑🏻‍💻
 
-- 🔭 I recently graduated with a BTech in Computer Science and Engineering from Indian Institute of Technology BHU, India, and am currently working as a Machine Learning Engineer at Sprinklr
-- 🥅 My interests include theoretical and applied AI, ML Operations, micro-service architectures, algorithms, and web development.
+- 🔭 I recently started my Masters in Computer Science in the University of Texas at Austin. Previously I graduated with a BTech in Computer Science and Engineering from the Indian Institute of Technology BHU, India, post which I worked as a Senior Machine Learning Engineer at Sprinklr for two years.
+- 🥅 My interests include theoretical and applied AI, ML Operations, and algorithms.
 - 🌱 I also find joy in doing puzzles and picking my brain with fun probability questions.
 -  😄 In my free time you can find me at my keyboard (the instrument) or glued to fantasy novels and shows.
 
